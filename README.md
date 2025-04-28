@@ -1,6 +1,6 @@
 # Campaign Manager
 
-This project is a simple campaign management system built with **React**, **Bootstrap**, and **SQLite**.
+This project is a simple campaign management system built with **React**, **Bootstrap**, **Express** and **SQLite**.
 
 ## Technologies Used
 
