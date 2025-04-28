@@ -49,3 +49,18 @@ Once both servers are running, open your browser and go to http://localhost:3000
 
 ---
 
+### **Fixing Potential Issues**
+
+In case you encounter issues due to the `node_modules` folder being included in the repository, follow these steps:
+
+1. Delete the `node_modules` folder:
+
+   ```bash
+   rm -rf node_modules
+   ```
+
+2. Install the dependencies again:
+ ```bash
+    npm install
+ ```
+
